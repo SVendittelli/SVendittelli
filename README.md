@@ -1,3 +1,3 @@
 # Hi there, I'm Sam :wave:
 
-I'm a senior full-stack software developer with 5+ years of experience in the full software development cycle. I have collaborated with 3 cross-functional agile teams to build, test, and deliver software features and increase efficiency while delivering world-class solutions to customers.
+Innovative, quality-driven professional with 6+ years of experience in the full software development cycle. Equipped with a record of success in developing solutions through high quality design and implementation. Proficient in creating user interfaces, developing services, writing and testing code, troubleshooting complex issues, and implementing features based on user feedback.
