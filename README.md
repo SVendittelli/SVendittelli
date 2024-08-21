@@ -1,12 +1,20 @@
 # Hi there, I'm Sam :wave:
 
-<img src="https://raw.githubusercontent.com/SVendittelli/SVendittelli/output-terminal/profile.gif" alt="Animated gif of a terminal. Generated with charm vhs." />
+![Animated gif of a terminal, generated with charm vhs](https://raw.githubusercontent.com/SVendittelli/SVendittelli/output-terminal/profile.gif)
 
 ## About Me
 
 Innovative, quality-driven professional with 6+ years of experience in the full software development cycle. Equipped with a record of success in developing solutions through high quality design and implementation. Proficient in creating user interfaces, developing services, writing and testing code, troubleshooting complex issues, and implementing features based on user feedback.
 
 See my collection of [useful CLI snippets](https://gist.github.com/SVendittelli/272dae22c2c511ba63d9227830287e4f).
+
+## Contact Me
+
+To contact me, you can reach me via email or on LinkedIn.
+
+[![sam.vendittelli@hotmail.com](https://img.shields.io/badge/%40-sam.vendittelli@hotmail.com-blue?style=flat-square&logoColor=white)](mailto:sam.vendittelli@hotmail.com)
+[![in/sam-vendittelli](https://img.shields.io/badge/LinkedIn-in%2Fsam--vendittelli-007ab6?style=flat-square&logoColor=white)](https://linkedin.com/in/sam-vendittelli)
+[![SVendittelli](https://img.shields.io/badge/SVendittelli-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SVendittelli)
 
 ## GitHub Commits
 
