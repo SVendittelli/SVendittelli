@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "*.tape"
+      - ".github/workflows/generate-terminal.yaml"
   workflow_dispatch:
 
 jobs:
@@ -16,9 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Generate an animated gif of a terminal
       - uses: charmbracelet/vhs-action@v2
         with:
           path: profile.tape
+        env:
+          USER: Sam
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>

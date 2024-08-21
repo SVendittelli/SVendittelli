@@ -69,7 +69,7 @@ Set Margin 20
 Set BorderRadius 10
 Set WindowBar Colorful
 
-Env USER "Sam"
+# Env USER "Sam" # Commented out until a new version of vhs is released with the env command
 
 Sleep 500ms
 Type `echo "Hi, I'm $USER"`
