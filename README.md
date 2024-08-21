@@ -97,15 +97,15 @@ GitHub profile, check them out:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SVendittelli&hide=stars&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=SVendittelli&hide=stars&show_icons=true&theme=dark&hide_rank=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SVendittelli&hide=stars&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=SVendittelli&hide=stars&show_icons=true&hide_rank=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SVendittelli&hide=stars&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=SVendittelli&hide=stars&show_icons=true&hide_rank=true"
     alt="GitHub stats for SVendittelli"
     height="200"
     align="center"
