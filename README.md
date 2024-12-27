@@ -39,26 +39,8 @@ some of my favorites:
 ## :wrench: CLI Tools
 
 I'm a CLI lover, and I'm always looking for new ways to improve my workflow.
-I keep my dotfiles and a collection of useful CLI snippets publically on my
-GitHub profile, check them out:
-
-<a href="https://github.com/SVendittelli/dotfiles">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=SVendittelli&repo=dotfiles&show_owner=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=SVendittelli&repo=dotfiles&show_owner=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=SVendittelli&repo=dotfiles&show_owner=true"
-    alt="My dotfiles"
-    align="center"
-  />
-</picture>
-</a>
+I keep a collection of useful CLI snippets publically on my GitHub account,
+check them out:
 
 <a href="https://gist.github.com/SVendittelli/272dae22c2c511ba63d9227830287e4f">
 <picture>
