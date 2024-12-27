@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - "*.sh"
       - "*.tape"
       - ".github/workflows/generate-terminal.yaml"
   workflow_dispatch:
